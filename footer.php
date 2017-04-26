@@ -1,4 +1,5 @@
-          <div class="mastfoot">
+<hr>          
+<div class="mastfoot">
             <div class="inner">
               <p>Construit avec ❤ par l'équipe des Girls Only de l'<a href="https://www.ensc.fr">ENSC</a>.</p>
             </div>
